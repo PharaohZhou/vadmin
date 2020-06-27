@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="vadmin-common" />
+        <module name="vadmin-tools" />
+        <module name="vadmin-system" />
+        <module name="vadmin-logging" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="vadmin" target="1.8" />
+      <module name="vadmin-common" target="1.8" />
+      <module name="vadmin-logging" target="1.8" />
+      <module name="vadmin-system" target="1.8" />
+      <module name="vadmin-tools" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="vadmin" options="-parameters" />
+      <module name="vadmin-common" options="-parameters" />
+      <module name="vadmin-logging" options="-parameters" />
+      <module name="vadmin-system" options="-parameters" />
+      <module name="vadmin-tools" options="-parameters" />
+    </option>
+  </component>
+</project>

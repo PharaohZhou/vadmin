@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vadmin.iml" filepath="$PROJECT_DIR$/vadmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vadmin-common/vadmin-common.iml" filepath="$PROJECT_DIR$/vadmin-common/vadmin-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vadmin-logging/vadmin-logging.iml" filepath="$PROJECT_DIR$/vadmin-logging/vadmin-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vadmin-system/vadmin-system.iml" filepath="$PROJECT_DIR$/vadmin-system/vadmin-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vadmin-tools/vadmin-tools.iml" filepath="$PROJECT_DIR$/vadmin-tools/vadmin-tools.iml" />
+    </modules>
+  </component>
+</project>

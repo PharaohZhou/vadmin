@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b0df713-4572-4c3d-b859-796f4056ca36" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="eladmin@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="eladmin@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="eladmin@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="eladmin: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="eladmin@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="eladmin: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="role: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="eladmin@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="eladmin: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bA1W04Hg3ce5Bz8W4OnfjcsA2H" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vadmin-system/src/main/java/com/codingmc/modules/security/security" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vadmin-system/src/main/resources/config" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.codingmc.modules.system.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vadmin-system/src/main/java/com/codingmc/modules/security/security" />
+      <recent name="$PROJECT_DIR$/vadmin-system/src/main/resources/config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.codingmc.modules.system.service.mapper" />
+      <recent name="com.codingmc.utils" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.codingmc.service" />
+      <recent name="com.codingmc.modules.system.service.dto" />
+      <recent name="com.codingmc.modules.system.service" />
+      <recent name="com.codingmc.modules.security.service.dto" />
+      <recent name="com.codingmc.modules.security.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CoreModuleApplicationTests.contextLoads">
+    <configuration name="RunApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingmc.RunApplication" />
+      <module name="vadmin-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingmc.RunApplication" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonModuleApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vadmin-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingmc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codingmc" />
+      <option name="MAIN_CLASS_NAME" value="com.codingmc.CommonModuleApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoreModuleApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vadmin-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingmc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codingmc" />
+      <option name="MAIN_CLASS_NAME" value="com.codingmc.CoreModuleApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="公共模块Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vadmin-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codingmc.公共模块Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="日志模块Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vadmin-logging" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codingmc.日志模块Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="核心模块Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vadmin-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codingmc.RunApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="工具模块Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vadmin-tools" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codingmc.工具模块Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vadmin-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codingmc.RunApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RunApplication" />
+      <item itemvalue="JUnit.CommonModuleApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.CoreModuleApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.公共模块Application" />
+      <item itemvalue="Spring Boot.RunApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CoreModuleApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.CommonModuleApplicationTests.contextLoads" />
+        <item itemvalue="Application.RunApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@c45e49ed" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b0df713-4572-4c3d-b859-796f4056ca36" name="Default Changelist" comment="" />
+      <created>1588060111365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588060111365</updated>
+      <workItem from="1588060114581" duration="27349000" />
+      <workItem from="1589245245571" duration="11563000" />
+      <workItem from="1589284649428" duration="4216000" />
+      <workItem from="1589330964292" duration="3813000" />
+      <workItem from="1589851072027" duration="10133000" />
+      <workItem from="1589879132924" duration="1936000" />
+      <workItem from="1590372223317" duration="8813000" />
+      <workItem from="1590459225236" duration="15671000" />
+      <workItem from="1590540864292" duration="6176000" />
+      <workItem from="1590631312938" duration="21471000" />
+      <workItem from="1590721437839" duration="11069000" />
+      <workItem from="1590817497730" duration="595000" />
+      <workItem from="1591336145177" duration="1609000" />
+      <workItem from="1591361845346" duration="4864000" />
+      <workItem from="1591414773676" duration="16407000" />
+      <workItem from="1591490205495" duration="1305000" />
+      <workItem from="1591496762417" duration="8089000" />
+      <workItem from="1591577369208" duration="4503000" />
+      <workItem from="1591593496604" duration="12257000" />
+      <workItem from="1591666480408" duration="7612000" />
+      <workItem from="1591881794560" duration="4468000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
